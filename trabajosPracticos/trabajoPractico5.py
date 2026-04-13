@@ -1,6 +1,6 @@
 import random
 
-# 1
+# 1.
 
 # listaNotas = [6, 8, 5, 10, 3, 1, 7, 2, 9, 4]
 # alumno = 0
@@ -78,7 +78,7 @@ import random
 
 # ---
 
-# 2
+# 2.
 
 # listaProductos = []
 # totalProductos = 3
@@ -100,7 +100,7 @@ import random
 
 # ---
 
-# 3
+# 3.
 
 # inicioValido = 1
 # finValido = 100
@@ -122,7 +122,7 @@ import random
 
 # ---
 
-# 4
+# 4.
 
 # datos = [1, 3, 5, 3, 7, 1, 9, 5, 3]
 
@@ -132,7 +132,7 @@ import random
 
 # ---
 
-# 5
+# 5.
 
 # estudiantes = ["Marco", "Eren", "Zeke", "Grisha", "Mikasa", "Armin", "Levi", "Ymir"]
 
@@ -167,7 +167,7 @@ import random
 
 # ---
 
-# 6
+# 6.
 
 # lista = [0, 1, 2, 3, 4, 5, 6]
 
@@ -195,7 +195,7 @@ import random
 
 # ---
 
-# 7
+# 7.
 
 # minimas = 0
 # maximas = 0
@@ -276,7 +276,7 @@ import random
 
 # ---
 
-# 8
+# 8.
 
 # cabeceraMaterias = ["Programación", "Matemática", "Arquitectura"]
 
@@ -303,7 +303,7 @@ import random
 
 # ---
 
-# 9
+# 9.
 
 # turno = False
 
@@ -343,7 +343,7 @@ import random
 
 # ---
 
-# 10
+# 10.
 
 # ventas = [
 #     [10, 5, 8, 7, 6, 9, 4],
@@ -379,7 +379,7 @@ import random
 
 # ---
 
-# 11
+# 11.
 
 # estudiantes = [
 #     "Marco",
@@ -408,7 +408,7 @@ import random
 
 # ---
 
-# 12
+# 12.
 
 # numeros = []
 # cantidad = 8
@@ -428,7 +428,7 @@ import random
 
 # ---
 
-# 13
+# 13.
 
 # puntajes = [450, 1200, 875, 990, 300, 1500, 640]
 # mayorPuntaje = puntajes[0]

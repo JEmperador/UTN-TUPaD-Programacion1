@@ -1,4 +1,5 @@
-#1
+# 1.
+
 # nombre = input("Ingrese su nombre: ").strip()
 
 # while not nombre.isalpha():
@@ -48,7 +49,8 @@
 # print(f"Ahorro: ${ahorro:.2f}")
 # print(f"Promedio por producto: ${promedio:.2f}")
 
-#2
+# 2.
+
 # usuarioValido = "alumno"
 # claveValida = "python123"
 
@@ -113,7 +115,8 @@
 #                 print("Saliendo del programa...")
 #                 break
 
-#3
+# 3.
+
 # operador = input("Ingrese nombre del operador: ").strip()
 
 # while not operador.isalpha():
@@ -286,7 +289,8 @@
 #         print("Sistema cerrado.")
 #         break
 
-#4
+# 4.
+
 # energia = 100
 # tiempo = 12
 # cerradurasAbiertas = 0
@@ -392,7 +396,7 @@
 # else:
 #     print("\nDERROTA: te quedaste sin recursos.")
 
-#5
+# 5
 # print("--- BIENVENIDO A LA ARENA ---")
 
 # nombre = input("Nombre del Gladiador: ").strip()
