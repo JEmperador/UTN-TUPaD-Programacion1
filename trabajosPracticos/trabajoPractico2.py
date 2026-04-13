@@ -1,10 +1,12 @@
-#1.
+# 1.
+
 # edad = int(input("Ingrese su edad: "))
 
 # if edad > 18:
 #     print("Eres mayor de edad.")
 
-#2.
+# 2.
+
 # numero = int(input("Ingrese su nota (expresada en número/s): "))
 
 # if numero >= 6:
@@ -12,7 +14,8 @@
 # else:
 #     print("Desaprobado")
 
-#3.
+# 3.
+
 # numero = int(input("Ingrese un número: "))
 
 # while numero % 2 != 0:
@@ -21,7 +24,8 @@
 
 # print("Correcto, el número es par.")
 
-#4.
+# 4.
+
 # edad = int(input("Ingrese su edad: "))
 
 # while edad < 0:
@@ -36,7 +40,8 @@
 # else:
 #     print("Es adulto/a")
 
-#5-a.
+# 5-a.
+
 # contraseña = input("Ingrese la contraseña: ").strip().lower()
 
 # while len(contraseña) < 8 or len(contraseña) > 14:
@@ -45,7 +50,8 @@
 
 # print("Ha ingresado una contraseña correcta.")
 
-#5-b.
+# 5-b.
+
 # contraseña = input("Ingrese la contraseña: ").strip().lower()
 
 # if len(contraseña) <= 8 or len(contraseña) >= 14:
@@ -53,7 +59,8 @@
 # else:
 #     print("Contraseña válida.")
 
-#6.
+# 6.
+
 # kWh = float(input("Ingrese el consumo mensual de kWh: "))
 
 # while kWh < 0:
@@ -70,8 +77,8 @@
 # if kWh > 500:
 #     print("Considere medidas de ahorro energético.")
 
+# 7.
 
-#7.
 # palabra = input("Ingrese una frase o palabra: ").strip().lower()
 # vocales = "aeiouAEIOU"
 
@@ -85,7 +92,8 @@
 # else:
 #     print(f"La frase o palabra es: {palabra}.")
 
-#8.
+# 8.
+
 # nombre = input("Ingrese su nombre: ").strip().lower()
 # opcion = int(input("Ingrese una opción (1, 2 o 3): "))
 
@@ -102,7 +110,8 @@
 #     case _:
 #         print("Opción no válida")
 
-#9.
+# 9.
+
 # terremoto = float(input("Ingrese la magnitud del terremoto: "))
 
 # while terremoto < 0:
@@ -122,7 +131,8 @@
 # else:
 #     print("Terremoto extremo (puede causar graves daños a gran escala).")
 
-#10.
+# 10.
+
 # hemisferio = input("Ingrese el hemisferio (N/S): ").strip().lower()
 # h = hemisferio[0]
 
